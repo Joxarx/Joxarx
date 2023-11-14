@@ -1,4 +1,4 @@
-# Hi, I'm Joxarx! 👋
+# Hi, I'm Joshua Arias! 👋
 
 ## About Me
 
@@ -14,7 +14,8 @@ I'm a passionate data analyst with experience in processing and analyzing large 
 
 ## Featured Projects
 
-- [Project A: Brief description](link)
+- [**Project A: Patas Amigas**](https://github.com/Joxarx/PatasAmigas) - *An app for pet adoption.* Connect with your future furry friend!
+
 - [Project B: Brief description](link)
 - [Project C: Brief description](link)
 
@@ -23,4 +24,4 @@ I'm a passionate data analyst with experience in processing and analyzing large 
 Feel free to reach out!
 
 - Email: josh.alta.arias@gmail.com
-- LinkedIn: [[linkedin.com/in/joshua-arias]([https://www.linkedin.com/in/joshua-arias](https://www.linkedin.com/in/adri%C3%A1n-joshua-arias-altamirano-553377239/)https://www.linkedin.com/in/adri%C3%A1n-joshua-arias-altamirano-553377239/)](https://www.linkedin.com/in/adri%C3%A1n-joshua-arias-altamirano-553377239/)https://www.linkedin.com/in/adri%C3%A1n-joshua-arias-altamirano-553377239/
+- LinkedIn: [linkedin.com/in/adrián-joshua-arias-altamirano-553377239](https://www.linkedin.com/in/adri%C3%A1n-joshua-arias-altamirano-553377239/)
