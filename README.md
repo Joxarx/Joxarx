@@ -16,7 +16,7 @@ I'm a passionate data analyst with experience in processing and analyzing large 
 
 - [**Project A: Patas Amigas**](https://github.com/Joxarx/PatasAmigas) - *An app for pet adoption.* Connect with your future furry friend!
 
-- [**Project B: Machine Learning Playground**](https://github.com/Joxarx/MachineLearning) - *Explore the exciting world of Machine Learning with this interactive playground.*
+- [**Project B: Machine Learning Playground**](https://github.com/Joxarx/MachineLearning) - *Various Machine Learning projects.*
 
 - [Project C: Brief description](link)
 
