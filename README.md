@@ -14,11 +14,11 @@ I'm a passionate data analyst with experience in processing and analyzing large 
 
 ## Featured Projects
 
-- [**Project A: Patas Amigas**](https://github.com/Joxarx/PatasAmigas) - *An app for pet adoption.* Connect with your future furry friend!
+- [**Patas Amigas**](https://github.com/Joxarx/PatasAmigas) - *An app for pet adoption.* Connect with your future furry friend!
 
-- [**Project B: Machine Learning Playground**](https://github.com/Joxarx/MachineLearning) - *Various Machine Learning projects.*
+- [**Machine Learning Playground**](https://github.com/Joxarx/MachineLearning) - *Various Machine Learning projects.*
 
-- [Project C: Brief description](link)
+- [**Machine Learning Playground**](https://github.com/Joxarx/Shortest-Path-Finder) - *Find the shortest path using A* or Djisktra.*
 
 ## Contact
 
