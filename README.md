@@ -18,7 +18,7 @@ I'm a passionate data analyst with experience in processing and analyzing large 
 
 - [**Machine Learning Playground**](https://github.com/Joxarx/MachineLearning) - *Various Machine Learning projects.*
 
-- [**Machine Learning Playground**](https://github.com/Joxarx/Shortest-Path-Finder) - *Find the shortest path using A* or Djisktra.*
+- [**Shortest Path Finder**](https://github.com/Joxarx/Shortest-Path-Finder) - *Find the shortest path using A* or Djisktra.*
 
 ## Contact
 
